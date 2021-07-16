@@ -1,0 +1,51 @@
+body{
+	margin:0;
+	padding:0;
+}
+.box{
+	width:160px;
+	height: 160px;
+	background: #131313;
+}
+.title{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+#getting-started{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.single-counter{
+	background-color: #ff7820;
+	width: 220px;
+	text-align: center;
+	font-size: 40px;
+	padding: 40px 0;
+}
+.m-40{
+	margin-top: 40px;
+}
+.owl{
+	padding: 40px 0;
+	background-color: yellow;
+	font-size: 24px;
+	text-align: center;
+}
+
+.box1{
+	height: 200px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.box2{
+	height: 200px;
+	background-color: green;
+	margin-bottom: 10px;
+}
+.box3{
+	height: 200px;
+	background-color: yellow;
+	margin-bottom: 10px;
+}
